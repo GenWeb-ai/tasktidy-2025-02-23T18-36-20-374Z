@@ -1,0 +1,12 @@
+### Frontend Setup
+
+1. Open the `frontend/src/index.html` file in your web browser.
+
+### Usage
+
+- Add a new todo by typing in the input box and clicking "Add".
+- Delete a todo by clicking the "Delete" button next to it.
+
+### Note
+
+This application is a simple demonstration and does not persist data between sessions.
